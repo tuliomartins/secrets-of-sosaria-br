@@ -1,0 +1,231 @@
+# 07/08/2025 11:22:45
+System.Net.Sockets.SocketException (0x80004005): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+   em System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   em Server.Network.NetState.InternalBeginReceive()
+   em Server.Network.NetState.Start()
+
+
+# 10/2/2025 2:10:07 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/3/2025 3:41:05 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/21/2025 4:17:35 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/21/2025 6:28:36 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/21/2025 6:28:36 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/21/2025 6:28:36 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/21/2025 6:28:36 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/24/2025 9:20:50 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/24/2025 9:20:53 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/27/2025 1:00:36 PM
+System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.OnReceive(IAsyncResult asyncResult)
+
+
+# 10/29/2025 1:02:18 PM
+System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.OnReceive(IAsyncResult asyncResult)
+
+
+# 10/31/2025 9:25:23 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/31/2025 9:32:52 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Resume()
+
+
+# 10/31/2025 9:32:58 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/31/2025 9:32:58 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/31/2025 9:32:58 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/31/2025 9:32:58 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 10/31/2025 3:46:06 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/1/2025 2:24:14 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/1/2025 6:37:11 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/1/2025 6:37:11 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/1/2025 6:37:11 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/1/2025 8:43:41 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/1/2025 8:43:41 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/1/2025 9:09:07 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/1/2025 9:09:07 AM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/2/2025 3:08:01 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/2/2025 3:08:02 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/2/2025 3:08:02 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/2/2025 3:08:02 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/2/2025 3:08:02 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
+# 11/2/2025 3:08:02 PM
+System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.InternalBeginReceive()
+   at Server.Network.NetState.Start()
+
+
