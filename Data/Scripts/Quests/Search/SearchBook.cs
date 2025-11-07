@@ -67,8 +67,8 @@ namespace Server.Items
 				m_Book = wikipedia;
 				string color = "#d6c382";
 
-				int NumberOfArtifacts = 383; // SEE LISTING BELOW AND MAKE SURE IT MATCHES THE AMOUNT
-				decimal PageCount = NumberOfArtifacts / 16;
+				int NumberOfArtifacts = 384; // SEE LISTING BELOW AND MAKE SURE IT MATCHES THE AMOUNT
+				decimal PageCount = NumberOfArtifacts / 17;
 				int TotalBookPages = ( 100000 ) + ( (int)Math.Ceiling( PageCount ) );
 
 				this.Closable=true;
@@ -83,7 +83,7 @@ namespace Server.Items
 				AddImage(0, 0, 7024, 2736);
 				AddButton(590, 48, 4017, 4017, 0, GumpButtonType.Reply, 0);
 
-				int subItem = page * 16;
+				int subItem = page * 17;
 
 				int showItem1 = subItem + 1;
 				int showItem2 = subItem + 2;
@@ -101,7 +101,7 @@ namespace Server.Items
 				int showItem14 = subItem + 14;
 				int showItem15 = subItem + 15;
 				int showItem16 = subItem + 16;
-
+				
 				int page_prev = ( 100000 + page ) - 1;
 					if ( page_prev < 100000 ){ page_prev = TotalBookPages; }
 				int page_next = ( 100000 + page ) + 1;
@@ -647,6 +647,7 @@ namespace Server.Items
 			if ( artifact == arty) { name="Artifact_ReachOfTheDepths";item="Reach of the Depths";} arty++;
 			if ( artifact == arty) { name="Artifact_TyrantOfTheReefs";item="Tyrant of the Reefs";} arty++;
 			if ( artifact == arty) { name="Artifact_CoatOfTheDreadPirate";item="Coat of the Dread Pirate";} arty++;
+			if ( artifact == arty) { name="Artifact_WarglaiveOfAzzinoth";item="Warglaive Of Azzinoth";} arty++;
 			if ( artifact == arty) { name="Artifact_TalismanOfTheAlbatroz";item="Talisman of the Albatroz";} arty++;
 			if ( part == 2 ){ item = name; }
 
