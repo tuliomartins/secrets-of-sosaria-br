@@ -16,8 +16,8 @@ namespace Server.Items
 			Name = "Warglaive Of Azzinoth";
 			Hue = 0x117;
 
-			Attributes.SpellChanneling = 1;
 			WeaponAttributes.HitFireball = 100;
+			AosElementDamages.Fire = 100;
 			ArtifactLevel = 2;
 			Server.Misc.Arty.ArtySetup( this, 10, "" );
 		}

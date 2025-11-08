@@ -1941,6 +1941,8 @@ namespace Server
 			new ItemSalesInfo( typeof(	Artifact_CoatOfTheDreadPirate	),	5000	,	0	,	0	,	false	,	false	,	World.None	,	Category.Artifact	,	Material.None	,	Market.None	),
 			new ItemSalesInfo( typeof(	Artifact_TyrantOfTheReefs	),	5000	,	0	,	0	,	false	,	false	,	World.None	,	Category.Artifact	,	Material.None	,	Market.None	),
 			new ItemSalesInfo( typeof(	Artifact_WarglaiveOfAzzinoth   ),	5000	,	0	,	0	,	false	,	false	,	World.None	,	Category.Artifact	,	Material.None	,	Market.None	),
+			new ItemSalesInfo( typeof(	Artifact_Frostmourne   ),	5000	,	0	,	0	,	false	,	false	,	World.None	,	Category.Artifact	,	Material.None	,	Market.None	),
+			new ItemSalesInfo( typeof(	Artifact_Nimbus   ),	5000	,	0	,	0	,	false	,	false	,	World.None	,	Category.Artifact	,	Material.None	,	Market.None	),
 			new ItemSalesInfo( typeof(	Artifact_ReachOfTheDepths	),	5000	,	0	,	0	,	false	,	false	,	World.None	,	Category.Artifact	,	Material.None	,	Market.None	),			// contraband boxes
 
 			new ItemSalesInfo( typeof(	CommonContrabandBox	),	50	,	0	,	0	,	false	,	false	,	World.None	,	Category.None	,	Material.None	,	Market.None	),

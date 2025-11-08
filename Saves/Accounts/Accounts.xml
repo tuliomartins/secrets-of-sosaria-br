@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<accounts count="107">
+<accounts count="109">
 	<account>
 		<username>Admin</username>
 		<newCryptPassword>02-C4-A6-58-C8-C1-BF-4C-AF-45-BC-D4-6C-67-F3-F9-82-E6-1F-3C</newCryptPassword>
@@ -7,7 +7,7 @@
 		<flags>2</flags>
 		<created>2012-09-03T09:33:27.63475-07:00</created>
 		<lastLogin>2018-05-31T13:35:09.970277-07:00</lastLogin>
-		<totalGameTime>P59DT23H38M43.9129402S</totalGameTime>
+		<totalGameTime>P60DT4H44M49.7476639S</totalGameTime>
 		<chars>
 			<char index="0">1</char>
 			<char index="1">86723</char>
@@ -22,7 +22,7 @@
 		<flags>2</flags>
 		<created>2025-08-08T02:53:28.5228834-07:00</created>
 		<lastLogin>2025-08-08T02:53:28.5228834-07:00</lastLogin>
-		<totalGameTime>P7DT22H57M13.0704175S</totalGameTime>
+		<totalGameTime>P7DT23H27M26.7840521S</totalGameTime>
 		<chars>
 			<char index="0">87558</char>
 			<char index="1">229523</char>
@@ -120,7 +120,7 @@
 		<flags>2</flags>
 		<created>2025-08-08T15:49:49.1757962-07:00</created>
 		<lastLogin>2025-08-08T15:49:49.1757962-07:00</lastLogin>
-		<totalGameTime>P9DT12H48M18.8100117S</totalGameTime>
+		<totalGameTime>P9DT13H55M55.9609793S</totalGameTime>
 		<chars>
 			<char index="0">89025</char>
 			<char index="2">864224</char>
@@ -826,7 +826,7 @@
 		<flags>2</flags>
 		<created>2025-09-27T14:32:41.8315178-07:00</created>
 		<lastLogin>2025-09-27T14:32:41.8315178-07:00</lastLogin>
-		<totalGameTime>P2DT14H24M18.8794549S</totalGameTime>
+		<totalGameTime>P2DT23H9M50.9119748S</totalGameTime>
 		<chars>
 			<char index="0">227509</char>
 			<char index="1">105323</char>
@@ -842,7 +842,7 @@
 		<flags>2</flags>
 		<created>2025-09-27T17:15:43.7942745-07:00</created>
 		<lastLogin>2025-09-27T17:15:43.7942745-07:00</lastLogin>
-		<totalGameTime>P6DT12H49M39.895599S</totalGameTime>
+		<totalGameTime>P6DT16H47M30.8049935S</totalGameTime>
 		<chars>
 			<char index="0">247411</char>
 			<char index="1">84294</char>
@@ -963,7 +963,7 @@
 		<flags>2</flags>
 		<created>2025-10-04T03:57:28.2398033-07:00</created>
 		<lastLogin>2025-10-04T03:57:28.2398033-07:00</lastLogin>
-		<totalGameTime>P5DT13H7M2.4673441S</totalGameTime>
+		<totalGameTime>P5DT21H54M11.7808233S</totalGameTime>
 		<chars>
 			<char index="0">101236</char>
 		</chars>
@@ -1092,7 +1092,7 @@
 		<newCryptPassword>5C-7F-C8-E5-FB-73-1C-59-2B-55-5E-0F-08-4E-FA-A9-A1-BC-E2-3E</newCryptPassword>
 		<created>2025-10-12T13:22:13.1611329-07:00</created>
 		<lastLogin>2025-10-12T13:22:13.1611329-07:00</lastLogin>
-		<totalGameTime>PT22H3M21.8159251S</totalGameTime>
+		<totalGameTime>PT22H3M50.3155557S</totalGameTime>
 		<chars>
 			<char index="0">84012</char>
 		</chars>
@@ -1226,7 +1226,7 @@
 		<flags>2</flags>
 		<created>2025-10-18T03:51:33.2924748-07:00</created>
 		<lastLogin>2025-10-18T03:51:33.2924748-07:00</lastLogin>
-		<totalGameTime>P3DT23H45M3.1935492S</totalGameTime>
+		<totalGameTime>P4DT9H26M35.6108308S</totalGameTime>
 		<chars>
 			<char index="1">79283</char>
 		</chars>
@@ -1258,7 +1258,7 @@
 		<flags>2</flags>
 		<created>2025-10-18T06:38:13.9584573-07:00</created>
 		<lastLogin>2025-10-18T06:38:13.9584573-07:00</lastLogin>
-		<totalGameTime>P4DT4H51M47.7881737S</totalGameTime>
+		<totalGameTime>P4DT5H4M56.7154959S</totalGameTime>
 		<chars>
 			<char index="0">90704</char>
 		</chars>
@@ -1272,7 +1272,7 @@
 		<flags>2</flags>
 		<created>2025-10-19T02:50:20.6779767-07:00</created>
 		<lastLogin>2025-10-19T02:50:20.6779767-07:00</lastLogin>
-		<totalGameTime>P1DT21H42M4.1375815S</totalGameTime>
+		<totalGameTime>P1DT23H40M16.1398903S</totalGameTime>
 		<chars>
 			<char index="0">78322</char>
 			<char index="1">97998</char>
@@ -1304,7 +1304,7 @@
 		<flags>2</flags>
 		<created>2025-10-20T09:53:30.6914997-07:00</created>
 		<lastLogin>2025-10-20T09:53:30.6914997-07:00</lastLogin>
-		<totalGameTime>P2DT1H1M52.2382812S</totalGameTime>
+		<totalGameTime>P2DT1H12M14.41803S</totalGameTime>
 		<chars>
 			<char index="0">93264</char>
 			<char index="1">136563</char>
@@ -1334,7 +1334,7 @@
 		<flags>2</flags>
 		<created>2025-10-22T17:32:47.15565-07:00</created>
 		<lastLogin>2025-10-22T17:32:47.15565-07:00</lastLogin>
-		<totalGameTime>P2DT13H51M46.483175S</totalGameTime>
+		<totalGameTime>P2DT22H42M30.8345586S</totalGameTime>
 		<chars>
 			<char index="0">269709</char>
 		</chars>
@@ -1350,7 +1350,7 @@
 		<newCryptPassword>01-61-A1-D5-B8-19-9D-C8-76-85-7C-59-46-A4-6F-E7-C8-70-56-36</newCryptPassword>
 		<created>2025-10-23T13:41:38.1567631-07:00</created>
 		<lastLogin>2025-10-23T13:41:38.1567631-07:00</lastLogin>
-		<totalGameTime>PT7H50M48.0965746S</totalGameTime>
+		<totalGameTime>PT8H50M18.4563311S</totalGameTime>
 		<chars>
 			<char index="0">127870</char>
 			<char index="1">144002</char>
@@ -1365,7 +1365,7 @@
 		<flags>2</flags>
 		<created>2025-10-28T08:58:17.0823248-07:00</created>
 		<lastLogin>2025-10-28T08:58:17.0823248-07:00</lastLogin>
-		<totalGameTime>P1DT16H5M9.119428S</totalGameTime>
+		<totalGameTime>P1DT22H10M34.8206907S</totalGameTime>
 		<chars>
 			<char index="0">339204</char>
 		</chars>
@@ -1415,7 +1415,7 @@
 		<newCryptPassword>09-69-2F-03-71-CB-40-94-51-70-1A-30-F4-56-91-33-18-4F-B2-4A</newCryptPassword>
 		<created>2025-10-31T15:13:27.2520808-07:00</created>
 		<lastLogin>2025-10-31T15:13:27.2520808-07:00</lastLogin>
-		<totalGameTime>PT3H13M21.299604S</totalGameTime>
+		<totalGameTime>PT4H22M5.449695S</totalGameTime>
 		<chars>
 			<char index="0">101540</char>
 		</chars>
@@ -1428,7 +1428,7 @@
 		<newCryptPassword>FE-AC-64-C1-3B-F9-8D-32-99-52-72-EA-26-0A-B6-B8-10-4B-AC-EA</newCryptPassword>
 		<created>2025-11-02T09:12:54.7019662-08:00</created>
 		<lastLogin>2025-11-02T09:12:54.7019662-08:00</lastLogin>
-		<totalGameTime>PT9H46M33.6851645S</totalGameTime>
+		<totalGameTime>PT9H47M37.0437058S</totalGameTime>
 		<chars>
 			<char index="0">135938</char>
 		</chars>
@@ -1467,7 +1467,7 @@
 		<newCryptPassword>57-6B-C2-B7-14-61-A1-09-90-B4-03-47-4C-0D-33-2A-62-3E-10-33</newCryptPassword>
 		<created>2025-11-05T15:40:13.8670094-08:00</created>
 		<lastLogin>2025-11-05T15:40:13.8670094-08:00</lastLogin>
-		<totalGameTime>PT10H33M23.2126454S</totalGameTime>
+		<totalGameTime>PT12H30M11.0445377S</totalGameTime>
 		<chars>
 			<char index="0">153777</char>
 		</chars>
@@ -1480,12 +1480,36 @@
 		<newCryptPassword>17-92-B8-6D-68-8F-B3-C5-06-72-65-5E-04-33-1A-1B-EE-B0-3C-C5</newCryptPassword>
 		<created>2025-11-06T04:42:26.6797721-08:00</created>
 		<lastLogin>2025-11-06T04:42:26.6797721-08:00</lastLogin>
-		<totalGameTime>PT1H32M0.70435S</totalGameTime>
+		<totalGameTime>PT7H30M2.6139841S</totalGameTime>
 		<chars>
 			<char index="0">87200</char>
 		</chars>
 		<addressList count="1">
 			<ip>177.37.153.13</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>prado</username>
+		<newCryptPassword>82-5F-80-06-E5-1A-43-AF-EC-0B-59-EF-EF-78-94-95-0E-10-C9-FC</newCryptPassword>
+		<created>2025-11-07T08:46:21.4739423-08:00</created>
+		<lastLogin>2025-11-07T08:46:21.4739423-08:00</lastLogin>
+		<totalGameTime>PT4H46M34.872779S</totalGameTime>
+		<chars>
+			<char index="0">80929</char>
+		</chars>
+		<addressList count="1">
+			<ip>177.37.153.13</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>darkain</username>
+		<newCryptPassword>E5-81-32-26-1D-CC-41-F9-6E-C9-FA-CA-89-0A-94-DE-2F-D2-16-E9</newCryptPassword>
+		<created>2025-11-08T06:48:30.5814409-08:00</created>
+		<lastLogin>2025-11-08T06:48:30.5814409-08:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+		<addressList count="1">
+			<ip>179.191.139.13</ip>
 		</addressList>
 	</account>
 </accounts>
