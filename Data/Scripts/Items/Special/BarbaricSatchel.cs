@@ -355,7 +355,7 @@ namespace Server.Items
 					AddItem(46, 58, 22083);
 					AddItem(105, 59, 0x672E);
 					AddItem(169, 58, 0x2b10);
-					AddItem(245, 60, 5201);
+					AddItem(245, 60, 0x13BB);
 					AddItem(305, 54, 0x140c);
 					AddItem(372, 60, 0x1408);
 
@@ -449,7 +449,7 @@ namespace Server.Items
 				else if ( info.ButtonID == 10 ){ 	NewName = "helm";				itemID = 22083; }
 				else if ( info.ButtonID == 11 ){ 	NewName = "circlet";			itemID = 0x672E; }
 				else if ( info.ButtonID == 12 ){ 	NewName = "horned helm";		itemID = 0x2b10; }
-				else if ( info.ButtonID == 13 ){ 	NewName = "skull helm";			itemID = 5201; }
+				else if ( info.ButtonID == 13 ){ 	NewName = "skull helm";			itemID = 0x13BB; }
 				else if ( info.ButtonID == 14 ){ 	NewName = "helmet";				itemID = 0x140c; }
 				else if ( info.ButtonID == 15 ){ 	NewName = "helmet";				itemID = 0x1408; }
 
@@ -478,8 +478,8 @@ namespace Server.Items
 				}
 				else if ( info.ButtonID == 31 ){ 	NewName = "scant mantle";		itemID = 0x567A; 	m_Item.Layer = Layer.OuterTorso; }
 				else if ( info.ButtonID == 32 ){ 	NewName = "robe";				itemID = 0x1F03; 	m_Item.Layer = Layer.OuterTorso; }
-				else if ( info.ButtonID == 33 ){ 	NewName = "shoulder belt";		itemID = 0x1541; 	m_Item.Layer = Layer.MiddleTorso; }
-				else if ( info.ButtonID == 34 ){ 	NewName = "cross belt";			itemID = 0x0409; 	m_Item.Layer = Layer.MiddleTorso; }
+				else if ( info.ButtonID == 33 ){ 	NewName = "shoulder belt";		itemID = 0x1F03; 	m_Item.Layer = Layer.MiddleTorso; }
+				else if ( info.ButtonID == 34 ){ 	NewName = "cross belt";			itemID = 0x1F03; 	m_Item.Layer = Layer.MiddleTorso; }
 
 				if ( itemID > 0 && NewName != "" )
 				{

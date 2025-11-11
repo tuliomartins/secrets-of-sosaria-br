@@ -67,7 +67,7 @@ namespace Server.Items
 				m_Book = wikipedia;
 				string color = "#d6c382";
 
-				int NumberOfArtifacts = 386; // SEE LISTING BELOW AND MAKE SURE IT MATCHES THE AMOUNT
+				int NumberOfArtifacts = 387; // SEE LISTING BELOW AND MAKE SURE IT MATCHES THE AMOUNT
 				decimal PageCount = NumberOfArtifacts / 17;
 				int TotalBookPages = ( 100000 ) + ( (int)Math.Ceiling( PageCount ) );
 
@@ -650,6 +650,7 @@ namespace Server.Items
 			if ( artifact == arty) { name="Artifact_WarglaiveOfAzzinoth";item="Warglaive Of Azzinoth";} arty++;
 			if ( artifact == arty) { name="Artifact_Frostmourne";item="Frostmourne";} arty++;
 			if ( artifact == arty) { name="Artifact_Nimbus";item="Nimbus";} arty++;
+			if ( artifact == arty) { name="Artifact_TheShadowWall";item="The Shadow Wall";} arty++;
 			if ( artifact == arty) { name="Artifact_TalismanOfTheAlbatroz";item="Talisman of the Albatroz";} arty++;
 			if ( part == 2 ){ item = name; }
 
